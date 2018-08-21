@@ -61,22 +61,33 @@ Create a small PHP-script to accomplish following parts:
 
 #### Languages :
 1.HTML
+
 2.CSS
+
 3.Sass
+
 4.JavaScript
+
 5.Jquery
+
 6.Ajax
+
 7.PHP
 
 #### Plugins :
 1.Facebook SDK
+
 2.Google
+
 3.Font-Awesome
+
 4.Google Fonts
 
 #### Super Cool Things:
 1.**Self written** Sass for the **grid system** and basic layout.
+
 2.**No Bootstrap** or other front-end framework used!
+
 3.All the code is **original and written from scratch**.
 
 ----  
@@ -94,6 +105,5 @@ I've removed or modified few lines from the code before uploading here so, It wo
 
 ## Remaining things as of now :
 [ ]Some bug fixes and feature implementation.
+
 [ ]login page UI.
-
-
