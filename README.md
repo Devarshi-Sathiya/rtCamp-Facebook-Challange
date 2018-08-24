@@ -71,7 +71,7 @@ Few of the things are modified and may differ from the challange discription but
 Special thanks to Google, Stackoverflow and some other websites !
 Also rtCamp for making this awesome challange.
 
-Still Confused ? Feel free to contact me.(details are on my [website](https://www.devarshi.xyz)).
+Still Confused ? Feel free to contact me.(details are on my website).
 Want to learn ? Sure, I'll arrange something for you to learn !
 ```
 ----
