@@ -64,13 +64,10 @@ Create a small PHP-script to accomplish following parts:
   4. All the code is **original and written from scratch**.
 ----  
 ## How to use the code ?
-
 ```
 Use 'home.php' as index page.
 ```
-
 ----
-
 ## Notes From the Developer :
 ```
 It is possible that the images you see there can be in 130 * 130 in resolution. This has been done to make the website perform faster in the testing Environment.
@@ -80,6 +77,5 @@ Few of the things are modified and may differ from the challange discription but
 ----
 
 ## Remaining things as of now :
-  [x]Some bug fixes and feature implementation.
-
-  [x]login page UI.
+  [x] Some bug fixes and feature implementation.
+  [x] login page UI.
