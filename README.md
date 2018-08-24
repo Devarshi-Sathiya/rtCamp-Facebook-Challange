@@ -58,6 +58,7 @@ Create a small PHP-script to accomplish following parts:
 ## How to use the code ?
 ```
 Use 'home.php' as index page.
+Add your Client Secrets or validators at the right place in the code.
 ```
 ----
 ## Notes From the Developer:
@@ -68,10 +69,12 @@ This has been done to make the website perform faster in the testing Environment
 Few of the things are modified and may differ from the challange discription but the functionalities are same.
 
 Best viewed in Chrome.
+
+Still Confused ? Feel free to contact me.(details are on my website).
+Want to learn ? Sure, I'll arrange something for you to learn !
 ```
 ----
 
 ## Remaining things as of now:
   [x] Some bug fixes and feature implementation.
-  
   [x] login page UI.
