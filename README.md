@@ -68,12 +68,10 @@ This has been done to make the website perform faster in the testing Environment
 
 Few of the things are modified and may differ from the challange discription but the functionalities are same.
 
-Best viewed in Chrome.
-
 Special thanks to Google, Stackoverflow and some other websites !
 Also rtCamp for making this awesome challange.
 
-Still Confused ? Feel free to contact me.(details are on my website).
+Still Confused ? Feel free to contact me.(details are on my [website](https://www.devarshi.xyz)).
 Want to learn ? Sure, I'll arrange something for you to learn !
 ```
 ----
