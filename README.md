@@ -41,7 +41,7 @@ Create a small PHP-script to accomplish following parts:
   5. Jquery
   6. Ajax
   7. PHP
-#### Plugins:
+#### Libraries:
   1. Facebook-PHP-SDK
   2. Google-Client-SDK
   3. Php Zip
