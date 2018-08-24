@@ -14,9 +14,7 @@ Create a small PHP-script to accomplish following parts:
 
 ### Part-1: Album Slideshow
   1. User visits your script page.
-
   2. User will be asked to connect using his FB account.
-
   3. Once authenticated, your script will pull his album list from FB.
 
   4. User will click on an album name/thumbnail.
