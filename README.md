@@ -70,6 +70,9 @@ Few of the things are modified and may differ from the challange discription but
 
 Best viewed in Chrome.
 
+Special thanks to Google, Stackoverflow and some other websites !
+Also rtCamp for making this awesome challange.
+
 Still Confused ? Feel free to contact me.(details are on my website).
 Want to learn ? Sure, I'll arrange something for you to learn !
 ```
@@ -77,4 +80,5 @@ Want to learn ? Sure, I'll arrange something for you to learn !
 
 ## Remaining things as of now:
   [x] Some bug fixes and feature implementation.
+  
   [x] login page UI.
