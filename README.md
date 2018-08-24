@@ -1,5 +1,5 @@
 # rtCamp-Facebook-Challange
-Facebook user albums download and backup in google drive system.
+### Facebook user albums download and backup in google drive system.
 -----
 ### [Live Link](https://devarshi.xyz/home.php)
 ### Creted with :heart: by [Devarshi Sathiya](https://www.devarshi.xyz)
@@ -30,8 +30,10 @@ Create a small PHP-script to accomplish following parts:
      - “Move All”- This button will immediately move all user albums to Google Drive within their respective folders.
   5. Make sure that the user is asked to connect to their Google account only once, no matter how many times they choose to move data.
 ---  
-## Technologies Used :
-#### Languages :
+  
+## Technologies Used:
+  
+#### Languages:
   1. HTML
   2. CSS
   3. Sass
@@ -39,11 +41,12 @@ Create a small PHP-script to accomplish following parts:
   5. Jquery
   6. Ajax
   7. PHP
-  
-#### Plugins :
+#### Plugins:
   1. Facebook-PHP-SDK
   2. Google-Client-SDK
-####  
+  3. Php Zip
+  4. Curl
+#### Font Files:
   3. Font-Awesome
   4. Google Fonts
 #### Super Cool Things:
@@ -57,7 +60,7 @@ Create a small PHP-script to accomplish following parts:
 Use 'home.php' as index page.
 ```
 ----
-## Notes From the Developer :
+## Notes From the Developer:
 ```
 It is possible that the images you see there can be in 130 * 130 in resolution. This has been done to make the website perform faster in the testing Environment.
 
@@ -65,7 +68,7 @@ Few of the things are modified and may differ from the challange discription but
 ```
 ----
 
-## Remaining things as of now :
+## Remaining things as of now:
   [x] Some bug fixes and feature implementation.
   
   [x] login page UI.
