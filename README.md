@@ -50,7 +50,7 @@ Create a small PHP-script to accomplish following parts:
   3. Font-Awesome
   4. Google Fonts
 #### Super Cool Things:
-  1. **Self written** Sass for the **grid system** and basic layout.
+  1. **Self written :pencil2:** Sass for the **grid system** and basic layout.
   2. **No Bootstrap** or other front-end framework used !
   3. Albums uploaded to drive **without** third party storage.
   4. All the code is **original and written from scratch**.
@@ -62,9 +62,12 @@ Use 'home.php' as index page.
 ----
 ## Notes From the Developer:
 ```
-It is possible that the images you see there can be in 130 * 130 in resolution. This has been done to make the website perform faster in the testing Environment.
+It is possible that the images you see there can be in 130 * 130 in resolution(Thumbnails).
+This has been done to make the website perform faster in the testing Environment.
 
 Few of the things are modified and may differ from the challange discription but the functionalities are same.
+
+Best viewed in Chrome.
 ```
 ----
 
