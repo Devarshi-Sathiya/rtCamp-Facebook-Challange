@@ -4,9 +4,9 @@ include 'lib/gdrive.php';
 $client = new Google_Client();
 
 // Get your credentials from the console
-$client->setClientId('');
-$client->setClientSecret('');
-$client->setRedirectUri('');
+$client->setClientId('940685666170-e3dio05ptcafbf0egdrs8dtbt6339s43.apps.googleusercontent.com');
+$client->setClientSecret('X2jggNMA7njqhOzOme_Qbnen');
+$client->setRedirectUri('https://devarshi.xyz/drive_upload.php');
 $client->setScopes(array('https://www.googleapis.com/auth/drive.file'));
 
 session_start();

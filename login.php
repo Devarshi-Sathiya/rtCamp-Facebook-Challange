@@ -7,8 +7,8 @@ if (!session_id()) {
 require_once __DIR__ . '/lib/Facebook/autoload.php'; 
 
 $fb = new \Facebook\Facebook([
-  'app_id' => '', // Replace {app-id} with your app id
-  'app_secret' => '',
+  'app_id' => '1543198355780368', // Replace {app-id} with your app id
+  'app_secret' => '806d2483c9d439a104f032da52764ac0',
   'default_graph_version' => 'v3.1',
   'persistent_data_handler' => 'session'
   ]);
