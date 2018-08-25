@@ -77,6 +77,6 @@ Want to learn ? Sure, I'll arrange something for you to learn !
 ----
 
 ## Remaining things as of now:
-  [x] Some bug fixes and feature implementation. [Completed]
+  [x] Some bug fixes and feature implementation.[Completed]
   
   [x] login page UI.[Completed]
