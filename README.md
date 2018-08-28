@@ -58,8 +58,13 @@ Create a small PHP-script to accomplish following parts:
 ## How to use the code ?
 ```
 Use 'home.php' as index page.
-Add your Client Secrets or validators at the right place in the code.
 ```
+## How to use live ?
+```
+If you are a tester then generate access token from facebook developers page.
+Now login to the app ! 
+
+
 ----
 ## Notes From the Developer:
 ```
