@@ -63,6 +63,7 @@ Use 'home.php' as index page.
 ```
 If you are a tester then generate access token from facebook developers page.
 Now login to the app ! 
+```
 
 
 ----
